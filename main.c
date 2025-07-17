@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+// Feature2 work
+=======
 pseudo code
 {
 Initial Function()
@@ -19,3 +22,4 @@ Initial Security()
 
 
 }
+>>>>>>> master
